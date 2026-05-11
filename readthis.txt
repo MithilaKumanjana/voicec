@@ -1,0 +1,11 @@
+1.Mainly, you have to follow the https://github.com/neuphonic/neutts. Then you have to download the model file according to your OS.
+
+2.Then you have to get a 10-second-long quality wave sample and a subtitle file for that 10-second file.
+
+3.Then run my https://github.com/MithilaKumanjana/voicec/blob/main/encode_voice.py
+
+4.After that, you want to create your own input text file and then run https://github.com/MithilaKumanjana/voicec/blob/main/final_chunk_script.py
+
+5. This chunking method is the best method here — otherwise, some glitches and misconfigured output may occur. This is my own method for best output voice generation.
+
+(Note: Also, do not include any unusual characters in your voice text script.)
